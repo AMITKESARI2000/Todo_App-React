@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Todo_App-React/static/css/main.fb9eb860.chunk.css",
+    "main.js": "/Todo_App-React/static/js/main.6294728b.chunk.js",
+    "main.js.map": "/Todo_App-React/static/js/main.6294728b.chunk.js.map",
+    "runtime-main.js": "/Todo_App-React/static/js/runtime-main.8c26adcb.js",
+    "runtime-main.js.map": "/Todo_App-React/static/js/runtime-main.8c26adcb.js.map",
+    "static/js/2.e4d6b287.chunk.js": "/Todo_App-React/static/js/2.e4d6b287.chunk.js",
+    "static/js/2.e4d6b287.chunk.js.map": "/Todo_App-React/static/js/2.e4d6b287.chunk.js.map",
+    "index.html": "/Todo_App-React/index.html",
+    "precache-manifest.2dab78ef7c01bc4337ef8706e90ba279.js": "/Todo_App-React/precache-manifest.2dab78ef7c01bc4337ef8706e90ba279.js",
+    "service-worker.js": "/Todo_App-React/service-worker.js",
+    "static/css/main.fb9eb860.chunk.css.map": "/Todo_App-React/static/css/main.fb9eb860.chunk.css.map",
+    "static/js/2.e4d6b287.chunk.js.LICENSE.txt": "/Todo_App-React/static/js/2.e4d6b287.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/Todo_App-React/static/media/web-designer-pune-background.ea80e8bc.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8c26adcb.js",
+    "static/js/2.e4d6b287.chunk.js",
+    "static/css/main.fb9eb860.chunk.css",
+    "static/js/main.6294728b.chunk.js"
+  ]
+}
