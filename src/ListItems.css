@@ -1,0 +1,51 @@
+.list {
+  color: #fff;
+  width: 390px;
+  margin: 5px auto;
+  height: 50px;
+  background-color: rgb(148, 126, 243);
+  border-radius: 2px;
+}
+.list p {
+  padding: 12px;
+  position: relative;
+  transition: ease-in-out;
+}
+.list p input {
+  background-color: transparent;
+  border: none;
+  color: rgb(20, 20, 20);
+  text-transform: capitalize;
+  font-size: 18px;
+  text-overflow: ellipsis;
+}
+.list p input:focus {
+  outline: none;
+}
+.list p span {
+  position: absolute;
+  right: 10px;
+}
+.faicons {
+  margin: 0 5px;
+  font-size: 15px;
+  cursor: pointer;
+}
+.faicons:hover{
+    font-size: larger;
+    color: red;
+}
+.itemsAnim-enter {
+  opacity: 0.01;
+}
+.itemsAnim-enter .itemsAnim-enter-active {
+  opacity: 1;
+  transition: opacity 300ms ease-in;
+}
+.itemsAnim-leave {
+  opacity: 1;
+}
+.itemsAnim-leave .itemsAnim-leave-active {
+  opacity: 0.01;
+  transition: opacity 300ms ease-in;
+}
